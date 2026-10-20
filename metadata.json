@@ -1,0 +1,6 @@
+{
+  "name": "Match+ (ماتش +)",
+  "description": "تطبيق النتائج المباشرة ومتابعة المباريات الرياضية، التشكيلات، الإحصائيات، وترتيب الدوريات - Match+ Live Scores Companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
